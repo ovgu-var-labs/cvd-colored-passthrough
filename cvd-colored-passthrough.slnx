@@ -22,8 +22,8 @@
   <Project Path="Unity.VisualStudio.Editor.csproj" />
   <Project Path="Unity.Timeline.Editor.csproj" />
   <Project Path="meta.xr.ai.mcpbridge.csproj" />
-  <Project Path="Meta.XR.ImmersiveDebugger.csproj" />
   <Project Path="Unity.XR.Interaction.Toolkit.Editor.csproj" />
+  <Project Path="Meta.XR.ImmersiveDebugger.csproj" />
   <Project Path="Unity.2D.SpriteShape.Editor.csproj" />
   <Project Path="UnityEngine.UI.csproj" />
   <Project Path="Unity.XR.Simulation.Editor.csproj" />
