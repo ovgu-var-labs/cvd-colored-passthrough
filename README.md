@@ -1,3 +1,3 @@
 # Documentation 
 
-[here](https://leuchthelp.github.io/cvd-colored-passthrough/)
+[here](https://ovgu-var-labs.github.io/cvd-colored-passthrough/)
