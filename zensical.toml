@@ -37,7 +37,7 @@ copyright = """
 Copyright &copy; 2026 ovgu-var-labs & leuchthelp
 """
 
-repo_url = "https://ovgu-var-labs.github.io/cvd-colored-passthrough/"
+repo_url = "https://github.com/ovgu-var-labs/cvd-colored-passthrough"
 repo_name = "ovgu-var-labs/cvd-colored-passthrough"
 repo = "fontawesome/brands/github"
 
